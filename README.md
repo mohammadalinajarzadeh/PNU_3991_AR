@@ -3,11 +3,11 @@
 ### محمد علی نجارزاده باروق
  
 ---
-- [حساب گیت هاب](https://github.com/BaharbSalmas/)
+- [حساب گیت هاب](https://github.com/mohammadalinajarzadeh/)
 
-- [رزومه](https://baharbsalmas.github.io/)
+- [رزومه](https://mohammadalinajarzadeh.github.io/)
 
-- [SOP](https://baharbsalmas.github.io/SOP/)
+- [SOP](https://mohammadalinajarzadeh.github.io/SOP/)
 
 ------------------
 ## گروه ها
