@@ -64,7 +64,7 @@
    <tr>
     <th ></th>
     <th ></th>
-    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">طراحي واسط كاربر</a></th>
+    <th ><a  href="https://github.com/mohammadalinajarzadeh/PNU_3991_AR/tree/main/UserInterfaceDesign">طراحي واسط كاربر</a></th>
     <th ></th>   
     <th>دوشنبه</th>
   </tr>
