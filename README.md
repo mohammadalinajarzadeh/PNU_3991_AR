@@ -7,7 +7,7 @@
 
 - [رزومه](https://mohammadalinajarzadeh.github.io/)
 
-- [SOP](mohammadalinajarzadeh.github.io/PNU_3991_AR/)
+- [SOP](https://mohammadalinajarzadeh.github.io/PNU_3991_AR/)
 
 ------------------
 ## گروه ها
