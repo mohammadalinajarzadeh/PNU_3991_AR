@@ -1,1 +1,1 @@
-git rm --cached bin/Foo.class
+git rm --cached
